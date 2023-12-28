@@ -47,4 +47,4 @@ python segment.py ./emilia.jpg
 ## 测试结果
 虽然会跳很多warning出来，但是不影响运行结果，运行结果如下:
 
-![img1](https://lllyasviel.github.io/DanbooRegion/page_imgs/ex.jpg)
+![img1](https://github.com/zhenglinpan/DanbooRegion/blob/master/code/results/results.png)
