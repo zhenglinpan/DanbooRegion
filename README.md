@@ -2,7 +2,7 @@
 
 <div align="center">
 
-简体中文  |  [English](https://github.com/zhenglinpan/FillLineGaps/blob/master/README_EN.md)
+简体中文  |  [English](https://github.com/zhenglinpan/DanbooRegion/blob/master/README_EN.md)
 
 </div>
 
@@ -37,7 +37,7 @@ pip install -r requirements.txt
 2. 或者用我修改好的`saving.py`直接替换掉该文件也可以。
 
 ## 测试代码
-按照[DanbooRegion](https://github.com/lllyasviel/DanbooRegion)原项目的指导，运行第九步的测试代码即可正常运行。
+按照[DanbooRegion](https://github.com/lllyasviel/DanbooRegion)原项目的指导，运行第九步的测试代码。
 
 ```bash
 cd ./code/
@@ -48,3 +48,5 @@ python segment.py ./emilia.jpg
 虽然会跳很多warning出来，但是不影响运行结果，运行结果如下:
 
 ![img1](https://github.com/zhenglinpan/DanbooRegion/blob/master/code/results/results.png)
+
+~~什么年代了，还用tensorflow~~
